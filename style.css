@@ -59,11 +59,12 @@ li {
   margin: 0 auto;
   padding: 3rem 2rem;
   top: 0%;
-
+  
 }
 
 .anak-section-1{
   width: 40%;
+
 }
 
 li{
@@ -71,42 +72,75 @@ li{
   
 }
 .section-2{
+  display: flex;
+  
 
 }
 .why-us{
-  width: 200px;
-  height: 200px;
+  width: 80%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+
 }
 .section-content-a{
-  display: flex;
-  width: 300px;
-  height: 300px;
+  
+  width: 268px;
+  height: 196px;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   background-color: green;
+  flex-direction: column;
+  padding: 24px;
+  gap: 16px;
+
 }
 
 .section-content-b{
-  width: 300px;
-  height: 300px;
+  width: 268px;
+  height: 196px;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  background-color: green;
+  flex-direction: column;
+  padding: 24px;
+  gap: 16px;
   background-color: red
 }
 .section-content-c{
-  display: flex;
-  width: 300px;
-  height: 300px;
+ 
+  width: 268px;
+  height: 196px;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  background-color: green;
+  flex-direction: column;
+  padding: 24px;
+  gap: 16px;
   background-color: yellow
 }
 
 .section-content-d{
-  display: flex;
-  width: 300px;
-  height: 300px;
+  
+  width: 268px;
+  height: 196px;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  background-color: green;
+  flex-direction: column;
+  padding: 24px;
+  gap: 16px;
   background-color: purple;
+}
+#content{
+display: flex;
+margin: auto;
+justify-content: center;
+align-items: center;
+}
+
+.float{
+
+
 }

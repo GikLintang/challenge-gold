@@ -1,0 +1,68 @@
+/* // navbar style  */
+
+.navbar {
+  background-color: #f1f3ff;
+  padding: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+
+li {
+  list-style-type: none;
+}
+
+.company-logo {
+  font-size: 16px;
+}
+
+#tes {
+  margin-top: 1200px;
+}
+
+.hero-section{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f1f3ff;
+  width: 100%;
+  padding-top: 2rem;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.fs-hero {
+  font-size: 36px;
+}
+
+.hero-text {
+  padding-left: 11rem;
+  width: 50%;
+}
+
+.section-1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  padding: 3rem 2rem; 
+
+}
+
+.anak-section-1{
+  width: 40%;
+}
+
+li{
+  margin: 1rem;
+  
+}

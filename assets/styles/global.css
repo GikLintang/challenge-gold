@@ -1,0 +1,53 @@
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+
+.mr-1 {
+  margin-right: 10px;
+}
+.mr-2 {
+  margin-right: 20px;
+}
+.mr-3 {
+  margin-right: 30px;
+}
+.mr-4 {
+  margin-right: 40px;
+}
+
+.fs-1 {
+  font-size: 1rem;
+}
+
+.d-flex {
+  display: grid
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.btn-primary { 
+  padding: 7px 14px;
+  background-color: #5cb85f;
+  color: #fff;
+  border-radius: 5px;
+  width: fit-content;
+  border: none;
+  cursor: pointer;
+}
